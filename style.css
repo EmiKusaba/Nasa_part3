@@ -10,7 +10,13 @@ section {
   justify-content: space-around;
   background-color:grey;
 }
+article{
+  width: 270px;
+}
 #article2{
   margin-right: 20px;
+  margin-left: 20px;
+}
+#article1{
   margin-left: 20px;
 }
