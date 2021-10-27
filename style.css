@@ -1,0 +1,12 @@
+.image{
+  width: 850px;
+  height: 450px;
+  object-fit: cover;
+}
+section {
+  width: 850px;
+  height: 324px;
+  display: flex;
+  justify-content: space-around;
+  background-color:grey;
+}
